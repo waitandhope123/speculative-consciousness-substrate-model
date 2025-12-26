@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Speculative Consciousness Substrate Model (SCSM)"
+message: "If you use or reference this work, please cite it as below."
+type: software
+authors:
+  - name: "<AUTHOR NAME>"
+    affiliation: "Independent Researcher"
+version: "6.0"
+date-released: 2025-01-01
+url: "https://github.com/<USERNAME>/speculative-consciousness-substrate-model"
+abstract: >
+  The Speculative Consciousness Substrate Model (SCSM) is a non-empirical,
+  ontological framework proposing primordial consciousness as a non-temporal
+  substrate underlying spacetime, identity, and memory. The model emphasizes
+  internal coherence, constraint-based reasoning, and phenomenological
+  consistency without making physical or empirical claims.
+license: "CC-BY-4.0"
+keywords:
+  - consciousness
+  - ontology
+  - philosophy of mind
+  - metaphysics
+  - phenomenology
+  - cosmology
