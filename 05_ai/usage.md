@@ -1,74 +1,83 @@
 # AI Usage Disclosure  
-## Role of AI Assistance in This Repository
+## Specific Roles and Boundaries of AI Assistance
 
-This document describes the **limited and non-authoritative role** of AI assistance in the development
-of the **Speculative Consciousness Substrate Model (SCSM)** repository.
+This document describes the **specific, limited roles** of AI systems used in
+the development of the **Speculative Consciousness Substrate Model (SCSM)**.
 
-Its purpose is transparency, not delegation of responsibility.
-
----
-
-## Nature of AI Involvement
-
-AI tools were used in this project **as assistive instruments**, comparable to advanced text editors or
-structuring aids.
-
-Their role included:
-- reorganizing and refactoring human-provided text,
-- improving clarity, consistency, and formatting,
-- assisting with structural organization of documents,
-- helping translate informal ideas into disciplined written form.
-
-AI systems did **not** originate the core ideas, assumptions, axioms, or claims of the model.
+It distinguishes between **human authorship**, **AI-assisted structuring**, and
+editorial support, and assigns responsibility explicitly.
 
 ---
 
-## Scope of Assistance
+## Human Authorship (Primary)
 
-AI assistance was limited to:
-- drafting language under explicit human direction,
-- suggesting organizational structures,
-- identifying internal inconsistencies when prompted.
+The human author is solely responsible for:
+- originating the core ideas, assumptions, and intuitions,
+- determining all ontological commitments and constraints,
+- accepting, rejecting, or modifying any suggested text,
+- and curating the final structure and content of the model.
 
-AI systems were **not** used to:
-- generate claims autonomously,
-- determine ontological commitments,
-- evaluate truth or correctness,
-- introduce empirical assertions,
-- or adjudicate philosophical positions.
-
-All conceptual decisions remain human-authored.
+All claims, interpretations, and speculative commitments are human-authored.
 
 ---
 
-## Responsibility and Authorship
+## ChatGPT (Structural and Editorial Assistance)
 
-All responsibility for:
-- the content,
-- the assumptions,
-- the interpretations,
-- and any errors or omissions
+ChatGPT was used as an **interactive assistant** to:
+- help restructure informal ideas into coherent written form,
+- suggest organization and document layout,
+- assist in refining language for clarity and consistency,
+- identify internal tensions or ambiguities when explicitly asked.
 
-rests entirely with the human author(s).
+ChatGPT did **not**:
+- originate the core theory,
+- introduce axioms or commitments independently,
+- decide what is true, plausible, or correct,
+- or operate without continuous human direction.
 
-AI tools hold **no epistemic authority** within this repository.
+Its role was collaborative and reactive, not autonomous.
 
 ---
 
-## Limitations
+## Claude (Secondary Review and Refinement)
 
-AI-generated text may contain:
-- subtle errors,
-- unclear phrasing,
-- or unintended implications.
+Claude was used as a **secondary AI perspective** to:
+- review structure and phrasing,
+- suggest refinements for clarity or internal consistency,
+- flag areas where assumptions could be tightened or made explicit,
+- and propose limited wording changes under human oversight.
 
-All content has been curated and reviewed by a human, but readers are encouraged to
-apply the same critical scrutiny as they would to any speculative theoretical work.
+Claude did **not**:
+- originate concepts or theory direction,
+- adjudicate between competing interpretations,
+- or exercise independent judgment over the model’s content.
+
+All Claude-generated suggestions were subject to human acceptance or rejection.
+
+---
+
+## No Delegation of Authority
+
+Neither AI system:
+- holds epistemic authority,
+- participates in authorship,
+- or bears responsibility for the content.
+
+AI tools functioned as **assistive instruments**, comparable to advanced
+editorial or organizational aids.
+
+---
+
+## Responsibility Statement
+
+Any errors, omissions, or inconsistencies in this repository are the
+responsibility of the human author alone.
 
 ---
 
 ## Summary
 
-AI tools were used as **assistants**, not authors.
+This project is **human-authored, AI-assisted, and human-governed**.
 
-They supported expression and organization, while **all substantive responsibility remains human**.
+AI tools supported expression and structure under explicit constraint, while
+all substantive responsibility remains human.
